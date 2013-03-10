@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DayCareCenterSite", "DayCareCenterSite\DayCareCenterSite.vbproj", "{B7EF225E-68EE-4049-A17D-1DC3D71F7091}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DayCareCenter.Domain", "DayCareCenter.Domain\DayCareCenter.Domain.vbproj", "{D34A30E5-8010-46A0-8A47-7B6C1F7B98E6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DayCareCenter.MVP", "DayCareCenter.MVP\DayCareCenter.MVP.vbproj", "{5B6713C2-3ED7-4FEB-AD5F-66CA038DF4A6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DayCareCenter.Data", "DayCareCenter.Data\DayCareCenter.Data.vbproj", "{6717467D-BC03-4C7C-B6CA-641A88B92754}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rafaelmiceli.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DayCareCenterSite\\DayCareCenterSite.vbproj
+		SccProjectName1 = DayCareCenterSite
+		SccLocalPath1 = DayCareCenterSite
+		SccProjectUniqueName2 = DayCareCenter.Domain\\DayCareCenter.Domain.vbproj
+		SccProjectName2 = DayCareCenter.Domain
+		SccLocalPath2 = DayCareCenter.Domain
+		SccProjectUniqueName3 = DayCareCenter.MVP\\DayCareCenter.MVP.vbproj
+		SccProjectName3 = DayCareCenter.MVP
+		SccLocalPath3 = DayCareCenter.MVP
+		SccProjectUniqueName4 = DayCareCenter.Data\\DayCareCenter.Data.vbproj
+		SccProjectName4 = DayCareCenter.Data
+		SccLocalPath4 = DayCareCenter.Data
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7EF225E-68EE-4049-A17D-1DC3D71F7091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EF225E-68EE-4049-A17D-1DC3D71F7091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EF225E-68EE-4049-A17D-1DC3D71F7091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EF225E-68EE-4049-A17D-1DC3D71F7091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34A30E5-8010-46A0-8A47-7B6C1F7B98E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34A30E5-8010-46A0-8A47-7B6C1F7B98E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34A30E5-8010-46A0-8A47-7B6C1F7B98E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34A30E5-8010-46A0-8A47-7B6C1F7B98E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6713C2-3ED7-4FEB-AD5F-66CA038DF4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6713C2-3ED7-4FEB-AD5F-66CA038DF4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6713C2-3ED7-4FEB-AD5F-66CA038DF4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6713C2-3ED7-4FEB-AD5F-66CA038DF4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6717467D-BC03-4C7C-B6CA-641A88B92754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6717467D-BC03-4C7C-B6CA-641A88B92754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6717467D-BC03-4C7C-B6CA-641A88B92754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6717467D-BC03-4C7C-B6CA-641A88B92754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
